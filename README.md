@@ -18,8 +18,7 @@
 
 ### Stats
 
-<!-- ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristinagenduso&show_icons=true&theme=gruvbox) -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cristinagenduso&show_icons=true&theme=gruvbox)
 
-![](./profile-3d-contrib/profile-south-season-animate.svg)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=cristinagenduso&theme=gruvbox&border_radius=4.5) 
