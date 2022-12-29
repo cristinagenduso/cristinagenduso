@@ -18,7 +18,7 @@
 
 ### Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cristinagenduso&show_icons=true&theme=gruvbox)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cristinagenduso&count_private=true&show_icons=true&theme=gruvbox)
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=cristinagenduso&theme=gruvbox&border_radius=4.5) 
